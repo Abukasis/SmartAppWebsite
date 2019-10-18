@@ -1,0 +1,194 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    border-bottom-color: darkgray;
+    border-color: darkgray;
+
+    
+}
+.navbar-toggle{
+    background-color: orange !important;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#elogo{
+    height:100px;
+    width: 100px;
+}
+
+#elogo:hover{
+    opacity:0.8 !important;
+    
+}
+
+.h4Home {
+    text-align: center !important;
+    align-content: center !important;
+    color: black !important;
+}
+
+.h1Home {
+    text-align: center !important;
+    align-content: center !important;
+    color: darkorange !important;
+}
+
+ul{
+
+    text-align:center !important;
+    align-content:center !important;
+}
+
+
+#FrontPic1 {
+    max-width: 180px !important;
+    min-height: 180px !important;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#FrontPic1:hover{
+    opacity:0.5 !important;
+
+
+}
+#FrontPic2 {
+    max-height: 180px;
+    max-width: 180px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#FrontPic2:hover {
+    opacity: 0.5 !important;
+}
+#FrontPic3 {
+    max-height: 180px;
+    max-width: 180px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#BJSim{
+    max-height: 80px;
+
+}
+#BHPD{
+    max-height:90px;
+}
+#BHLogo{
+    max-height:50px;
+}
+#FrontPic3:hover {
+    opacity: 0.5 !important;
+}
+#FrontPic4 {
+    max-height: 180px;
+    max-width: 180px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#FrontPic4:hover {
+    opacity: 0.5 !important;
+}
+
+#Logo {
+
+    height: 100px;
+    width: 170px;
+}
+a.baritem {
+    color:black !important;
+    text-align:end !important;
+    opacity: 0.6 !important;
+}
+a.baritem:hover{
+    opacity: 1 !important;
+}
+
+
+ul {
+    list-style-type: none !important;
+}
+
+
+#s1 {
+    max-height: 180px !important;
+    max-width: 180px !important;
+}
+
+
+#s2 {
+    max-height: 180px !important;
+    max-width: 180px !important;
+}
+
+
+#s3 {
+    max-height: 180px !important;
+    max-width: 180px !important;
+}
+
+
+#s4 {
+    max-height: 180px !important;
+    max-width: 180px !important;
+    height:180px;
+    width:180px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-primary {
+    color: white !important;
+    background-color: green !important;
+}
+
+
+
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+

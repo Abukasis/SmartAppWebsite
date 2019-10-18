@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{A852C0F4-605D-455C-BA85-63D0CFDC7184}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartAppWeb/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="SmartAppWeb/Controllers/HomeController.cs" Line="22" Column="1" />
+      <File FileName="SmartAppWeb/Views/Home/Contact.cshtml" />
+      <File FileName="SmartAppWeb/Program.cs" />
+      <File FileName="SmartAppWeb/Views/Home/Privacy.cshtml" />
+      <File FileName="SmartAppWeb/Views/Home/About.cshtml" />
+      <File FileName="SmartAppWeb/Views/Home/Index.cshtml" />
+      <File FileName="SmartAppWeb/Views/Home/SendEmail.cshtml" />
+      <File FileName="SmartAppWeb/Views/Shared/_Layout.cshtml" />
+      <File FileName="SmartAppWeb/wwwroot/css/site.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartAppWeb" expanded="True">
+            <Node name="SmartAppWeb" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SmartAppWeb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

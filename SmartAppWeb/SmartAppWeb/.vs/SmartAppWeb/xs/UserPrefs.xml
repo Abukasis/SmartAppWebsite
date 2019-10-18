@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{37B7CCB4-15C5-4644-BA67-ECE280AE4F39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/site.js">
+    <Files>
+      <File FileName="Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="127" Column="21" />
+      <File FileName="wwwroot/js/site.js" Line="4" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartAppWeb" expanded="True">
+            <Node name="SmartAppWeb" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="site.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SmartAppWeb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
